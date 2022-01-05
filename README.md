@@ -21,9 +21,6 @@
 <br />
 <br />
 
-<a href="https://github.com/KHajili98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KHajili98" />
-</a>
 
 <a href="https://github.com/KHajili98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHajili98&theme=dark&hide_langs_below=1" />
