@@ -21,7 +21,7 @@
 <br />
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KHajili98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KHajili98's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHajili98&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KHajili98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="KHajili98's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHajili98&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
