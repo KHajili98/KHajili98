@@ -21,8 +21,8 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KHajili98&repo=github-readme-stats" />
+<a href="https://github.com/KHajili98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KHajili98" />
 </a>
 
 <a href="https://github.com/KHajili98">
