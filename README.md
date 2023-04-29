@@ -17,10 +17,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <p align="left"> <a href="https://github.com/muradorucov/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=khajili98" 
 </p>
-<br />
-
-
+ 
 <br>
+
+## 😎✌ Github Stats  
+<div align=center>
+  <img width="400" src="https://readme-stats.clckblog.space/api?username=muradorucov&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=muradorucov&theme=merko&hide_border=true" />
+  <img align="left"><img width="50%" src="https://readme-stats.clckblog.space/api/top-langs?username=muradorucov&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
+
+</div>
+<br>
+ 
 <!-- |  -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KHajili98&show_icons=true&include_all_commits=true&&theme=algolia&hide_border=true&count_private=true" alt="KHajili98's github stats" /></a>
 
