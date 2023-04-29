@@ -10,7 +10,7 @@
 <br>
 
 ## 😎✌ Stats  
-<div align=center>
+<div align=left>
   <img width="400" src="https://readme-stats.clckblog.space/api?username=khajili98&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
  
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=khajili98&theme=merko&hide_border=true" />
