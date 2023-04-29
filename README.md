@@ -20,18 +20,20 @@
  
 <br>
 
-## 😎✌ Github Stats  
+## 😎✌ Stats  
 <div align=center>
   <img width="400" src="https://readme-stats.clckblog.space/api?username=khajili98&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+ 
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=khajili98&theme=merko&hide_border=true" />
-  <img align="left"><img width="50%" src="https://readme-stats.clckblog.space/api/top-langs?username=khajili98&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
+ 
+  <img align="left"><img width="100%" src="https://readme-stats.clckblog.space/api/top-langs?username=khajili98&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
 
 </div>
 <br>
  
-<!-- |  -->
+<!-- | 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KHajili98&show_icons=true&include_all_commits=true&&theme=algolia&hide_border=true&count_private=true" alt="KHajili98's github stats" /></a>
-
+ -->
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHajili98&show_icons=true&include_all_commits=true&layout=compact&theme=algolia&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
