@@ -7,6 +7,9 @@
 <p align="left"> <a href="https://github.com/khajili98/github-profile-trophy&row=2&column=3">
 </p>
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=khajili98&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+ 
 
 
 ## 😎✌ Stats  
