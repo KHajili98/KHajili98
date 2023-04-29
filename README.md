@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/khajili98/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=khajili98" 
+<p align="left"> <a href="https://github.com/khajili98/github-profile-trophy&row=1"> <img src="https://github-profile-trophy.vercel.app/?username=khajili98" 
 </p>
  
 
