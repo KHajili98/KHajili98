@@ -17,7 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 
 <br />
-
+<p align="left"> <a href="https://github.com/muradorucov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khajili98&margin-w=15" alt="bbarisbolat" /></a> </p>
+<br>
 <!-- |  -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KHajili98&show_icons=true&include_all_commits=true&&theme=algolia&hide_border=true&count_private=true" alt="KHajili98's github stats" /></a>
 
