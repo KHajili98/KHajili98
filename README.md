@@ -26,7 +26,7 @@
  
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=khajili98&theme=merko&hide_border=true" />
  
-  <img align="left"><img width="100%" src="https://readme-stats.clckblog.space/api/top-langs?username=khajili98&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
+  <img align="center"><img width="40%" src="https://readme-stats.clckblog.space/api/top-langs?username=khajili98&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
 
 </div>
 <br>
