@@ -6,15 +6,6 @@
 
 [![Linkedin: Kamran Hajili](https://img.shields.io/badge/-KamranHajili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamran-hajili-4132a9209/)](https://www.linkedin.com/in/kamran-hajili-4132a9209/)
 
-### Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 
 <p align="left"> <a href="https://github.com/khajili98/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=khajili98" 
 </p>
